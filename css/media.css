@@ -1,0 +1,102 @@
+/* Smart Phones And Tablets */
+
+@media (max-width: 767px) {
+  .heading span {
+    font-size: 35px;
+  }
+
+
+
+  .header .navbar-nav {
+    float: none;
+    background-color: #fff;
+  }
+
+  .header.shrink .navbar-nav li a,  .header .navbar-nav li a {
+    padding: 10px 10px;
+    color: #222;
+  }
+
+  .slider .overlay .title h1,  .home .overlay .title h1,  .video-container .overlay .title h1,  .home .overlay .title h1.tlt span {
+    font-size: 45px;
+  }
+
+  .slider .overlay .title span,  .home .overlay .title span,  .video-container .overlay .title span {
+    font-size: 35px;
+  }
+
+  .slider .overlay .title p,  .home .overlay .title p,  .video-container .overlay .title p {
+    font-size: 16px;
+  }
+
+  .help .box {
+    margin: 0 15px;
+  }
+}
+
+/* Small Screen */
+
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width: 1199px) {
+  .help .box .item {
+    min-height: 324px;
+    padding: 30px;
+  }
+}
+
+/* Large Screen */
+
+@media (min-width:1200px) {
+  .about .words {
+    margin: 0 10%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .services .item {
+    margin-bottom: 50px;
+  }
+
+  .contact .box {
+    overflow: hidden;
+    margin-top: 50px;
+  }
+
+  .contact .box .item {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .services .item {
+    margin-bottom: 50px;
+  }
+
+  .contact .box {
+    overflow: hidden;
+    margin-top: 50px;
+  }
+
+  .contact .box .item {
+    margin-top: 50px;
+  }
+
+  .home .title h1,  .video-container .title h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+
+  .title p {
+    display: none;
+  }
+
+  .footer .copyright {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .social-icon-div {
+    text-align: center;
+  }
+}
