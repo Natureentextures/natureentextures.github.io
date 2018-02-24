@@ -60,11 +60,11 @@
 
   .contact .box {
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 0px;
   }
 
   .contact .box .item {
-    margin-top: 50px;
+    margin-top: 0px;
   }
 }
 
@@ -75,11 +75,11 @@
 
   .contact .box {
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 0px;
   }
 
   .contact .box .item {
-    margin-top: 50px;
+    margin-top: 0px;
   }
 
   .home .title h1,  .video-container .title h1 {
