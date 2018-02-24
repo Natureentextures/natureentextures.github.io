@@ -1305,6 +1305,7 @@ start section home for form page
 .my-portfolio .work-area {
   position: relative;
   margin-bottom: 30px;
+  min-height: 120px;
 }
 
 .my-portfolio .work-area .image {
@@ -1337,6 +1338,8 @@ start section home for form page
   background: rgba(255, 255, 255, 0.8);
   text-align: left;
   padding: 0 40px;
+  box-shadow: 0px 2px 8px rgb(220,220,220);
+  border-radius: 5px;
 }
 
 .my-portfolio .work-area .overlay h5 {
