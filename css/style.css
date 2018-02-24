@@ -1330,8 +1330,8 @@ start section home for form page
   bottom: 0;
   left: 0;
   right: 0;
-  opacity: 0;
-  justify-content: center;
+  opacity: 1;
+  justify-content: flex-end;
   display: flex;
   flex-direction: column;
   background: rgba(255, 255, 255, 0.8);
