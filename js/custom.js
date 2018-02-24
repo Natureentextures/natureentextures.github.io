@@ -168,7 +168,7 @@ $(document).on('ready', function () {
 });
 	
 	$('.element').typed({
-        strings: [ " Creative", " Global"],
+        strings: [ " laits corporels", " shampoings", "gels douches", "crèmes visages", "produits solaires"],
         loop: true,
         showCursor: true,
         startDelay: 1000,
