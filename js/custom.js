@@ -168,7 +168,7 @@ $(document).on('ready', function () {
 });
 	
 	$('.element').typed({
-        strings: [ " laits corporels", " shampoings", "gels douches", "crèmes mains ou visages", "produits solaires"],
+        strings: [ " laits corporels", "crèmes visage", " shampoings", "gels douche", "crèmes mains"],
         loop: true,
         showCursor: true,
         startDelay: 1000,
