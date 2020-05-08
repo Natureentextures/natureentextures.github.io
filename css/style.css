@@ -1166,9 +1166,8 @@ start section home for form page
 
 .skills .box .item .skills-progress span:after {
   content: attr(data-value);
-  position: absolute;
-  right: -10px;
-  top: -34px;
+  float:right;
+  margin-top: 5px;
   width: 35px;
   height: 22px;
   line-height: 22px;
